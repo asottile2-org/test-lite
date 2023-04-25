@@ -1,4 +1,4 @@
 # test-lite
-hello there  
+hello there
 
 hi
